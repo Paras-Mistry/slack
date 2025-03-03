@@ -44,7 +44,7 @@
         "supertest": "0.15.0"
     },
     "engines": {
-        "node": "16"
+        "node": "22"
     },
     "bin": {
         "slackin": "./bin/slackin"
